@@ -1,8 +1,9 @@
 
 ![header](https://github.com/HassanMTS/HassanMTS/assets/150341521/97aedff6-7eaf-4bdb-838f-74903049811f)
 <h1> 👋 Hello! </h1>
-Software engineer with 4 years of experience. Part of multiple projects in college and solo projects to gain further knowledge on langauges. Software engineer in one of the largest Recruitment companies in London, Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
-<h2>📚 Writing</h2>
+Experienced software engineer with a robust background spanning four years, marked by significant involvement in diverse college projects and independent initiatives aimed at deepening expertise in various programming languages. Currently contributing expertise as a software engineer within one of London's leading recruitment firms.
+
+Demonstrated proficiency in assuming project ownership and consistently surpassing delivery expectations by executing tasks with exceptional speed and precision. Versatile in web, mobile, and API development, showcasing adaptability across multiple technological domains. Passionate about embracing challenges and consistently seeking avenues for personal and professional growth within the ever-evolving realm of software engineering.<h2>📚 Writing</h2>
 Apart from developing websites, I have recently got into game development, hoping to also become comfortable in the scene.
 
 <h3>🛠️ Technologies & Tools</h3>
