@@ -22,4 +22,4 @@ Apart from developing websites, I have recently got into game development, hopin
 <h2> 📊 Statistics </h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanMTS&theme=maroongold=true)
+![HassanMTS's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=maroongold&show_icons=true)
