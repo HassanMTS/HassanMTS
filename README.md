@@ -22,7 +22,8 @@ Apart from developing websites, I have recently got into game development, hopin
 <h2> 📊 Statistics </h2>
 
 
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=HassanMTS)](https://github.com/YOUR_USERNAME/github-contribution-stats/)
-
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 
