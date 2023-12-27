@@ -22,8 +22,5 @@ Apart from developing websites, I have recently got into game development, hopin
 <h2> 📊 Statistics </h2>
 
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
+[![Activity Trends of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369)
 
