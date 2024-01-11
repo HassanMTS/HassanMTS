@@ -22,10 +22,10 @@ Apart from developing websites, I have recently got into game development, hopin
 
 
 <a href="https://github.com/HassanMTS/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lmcrean&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HassanMTS&theme=dark" />
 </a>
 <a href="https://github.com/HassanMTS/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lmcrean&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HassanMTS&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <img height=400 src="https://wakatime.com/share/@416fbf43-2a75-4cf7-8b85-019470ba1cc8/46572cfc-720b-4f33-a9ac-b255e2c537bc.svg">
